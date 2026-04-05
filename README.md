@@ -62,3 +62,6 @@ A role-based backend for managing financial records, users, and dashboard analyt
 - modules/ – feature-based (auth, users, records, dashboard)
 - utils/ – response helper
 - database/ – schema and seed
+
+**Live Demo:** [https://finance-backend-h2t5.onrender.com](https://finance-backend-h2t5.onrender.com)  
+*Note: free instance spins down, first request may take ~50s.*
